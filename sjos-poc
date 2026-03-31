@@ -1,0 +1,10 @@
+sjos-poc/
+│
+├── data/
+│   └── judges_1000.csv
+│
+├── streamlit_app/
+│   └── app.py
+│
+├── requirements.txt
+├── README.md
